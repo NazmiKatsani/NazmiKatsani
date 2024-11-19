@@ -43,6 +43,7 @@ Continuous learning, collaborating on meaningful projects, and leveraging data t
 ## Past Projects
 - 🔴 [Entroopia](https://entroopia.pro/)
 - 🔴 Entroopia & Startup Analyze
+- 🔴 Data Analyze
 
 ## Contact
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/nazmi-katsani-139947208/).
