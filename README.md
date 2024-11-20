@@ -2,7 +2,7 @@
 
 **`Digital Kun (Developer/Analyser/Creator)`**
 
-I’m a Data Scientist and Business Analyst with experience working in startup environments, where agility and problem-solving are key. My journey into coding started just 3 years ago, and since then, I’ve been driven by a passion for uncovering insights from data and turning them into actionable business strategies.
+Working in fast-paced, problem-solving startup environments has honed my skills as a data scientist and business analyst. A love for mining data for insights and translating them into practical business strategies propelled me to begin my coding career only three years ago.
 
 💡 What I do:
 
