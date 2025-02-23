@@ -5,7 +5,7 @@
 Working in fast-paced, problem-solving startup environments has honed my skills as a data scientist and business analyst.
 A love for mining data for insights and translating them into practical business strategies propelled me to begin my coding career only three years ago.
 
-💡 What I do:
+💡 What I like to do:
 
 🧠 Build data-driven solutions for real-world problems
 📊 Analyze business operations and market trends
